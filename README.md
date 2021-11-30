@@ -9,7 +9,7 @@ To launch a notebook instance, all you need to do is type
 ```
 jupyter notebook
 ```
-... one the notebook software itself has been installed.
+... the above command will open a Jupyter notebook instance and open up the current directory in your broswer once Jupyter itself has been installed (see below).
 
 ## Mac installation of Jupyter
 In case someone is using a mac, they will need to set up a computing environment, which can be accomplished by installing 
